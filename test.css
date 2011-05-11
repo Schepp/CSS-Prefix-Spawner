@@ -1,0 +1,7 @@
+/* CSS Document */
+h1 {
+	font-size: 2em;
+	-webkit-transform: rotate(90deg);
+	background-image: -moz-linear-gradient(top, #444444, #999999); /* FF3.6 */
+}
+
